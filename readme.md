@@ -60,10 +60,6 @@ This project leverages a powerful stack of data analysis and visualization libra
 
 To get a local copy up and running, follow these simple steps.
 
-### Prerequisites
-
-You need Python 3.x and `pip` installed. This project uses a `requirements.txt` file to manage dependencies.
-
 ### Installation
 
 1.  Clone the repo
